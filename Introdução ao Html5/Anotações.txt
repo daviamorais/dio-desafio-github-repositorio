@@ -1,0 +1,60 @@
+
+## Estrutura
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+## Semântica
+<section>
+<header>cabeçalho
+<article>conteúdo independente e de maior relevância
+<aside>seção que engloba conteúdos relacionados ao conteúdo principal
+<footer>rodapé
+<h1>-<h6>
+
+## Textos e links
+<p>parágrafo
+<a>hyperlink (href e o target)
+
+## Imagens
+<img>
+
+## Listas
+<ul>lista não ordenada -  representada com pontos, círculos ou quadrados
+<ol>lista ordenadas - números, algarismos romanos ou letras
+<li>item dentro de uma dessas listas - parágrafos, imagens e até outras listas
+
+## CSS
+
+## ID x Classe
+ID: # (hash)
+Classe:ponto
+
+## Box-model
+(margin) são espaçamentos entre elementos
+(border) bordas
+(padding) espaçamento entre as bordas e o conteúdo
+(content) é o que o seu bloco representa, um texto, uma imagem, um vídeo
+
+## Estilizando elementos
+Padding e Margin
+Background
+Border - solid/dotted/dashed
+
+## Estilizando textos
+font-family
+font-size
+font-style
+
+
+
+
+
+
